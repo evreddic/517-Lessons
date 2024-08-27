@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Hello, peoples
 
 blah
@@ -5,3 +6,6 @@ blah
 Yah
 
 Fixing Feature  #1
+=======
+hello peoples
+>>>>>>> Stashed changes
